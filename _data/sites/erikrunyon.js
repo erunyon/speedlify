@@ -1,6 +1,6 @@
 module.exports = {
-	name: "zachleat.com", // optional, falls back to object key
-	description: "Zach’s Personal web site",
+	name: "erikrunyon.com", // optional, falls back to object key
+	description: "Erik’s Personal web site",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
